@@ -1,6 +1,6 @@
 # Welcome
 
-This is a repro to show the issue with the header in nested navigators within tabs.
+This is a repro for Android only. It showcases that a nested navigator inside tabs is causing a shift in the tab bar when navigating to a screen that has a header.
 
 ## Get started
 
