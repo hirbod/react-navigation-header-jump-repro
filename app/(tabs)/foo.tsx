@@ -13,7 +13,7 @@ export default function HomeScreen() {
       <Stack.Screen
         options={{
           headerShown: true,
-          title: 'Notifications',
+          title: 'No jumping!',
           headerBackTitleVisible: false,
         }}
       />
@@ -26,7 +26,7 @@ export default function HomeScreen() {
           />
         }>
         <ThemedView style={styles.titleContainer}>
-          <ThemedText type="title">No shift!</ThemedText>
+          <ThemedText type="title">Everything fine here!</ThemedText>
           <HelloWave />
         </ThemedView>
       </ParallaxScrollView>
